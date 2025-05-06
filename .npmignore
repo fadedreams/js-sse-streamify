@@ -1,0 +1,8 @@
+node_modules/
+tests/
+examples/
+*.ts
+tsconfig.json
+jest.config.js
+coverage/
+*.log
